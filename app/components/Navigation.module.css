@@ -1,0 +1,22 @@
+
+.navigation {
+  border: 1px solid #ccc;
+  padding: 1rem 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.navigation ul {
+  display: flex;
+  gap: 16px;
+  padding: 0;
+  list-style: none;
+}
+
+.navigation li {
+  margin: 0;
+}
+
+.navigation a {
+  text-decoration: none;
+}
